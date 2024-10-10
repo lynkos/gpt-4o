@@ -1,0 +1,8 @@
+name: gpt4o_env
+channels:
+  - defaults
+dependencies:
+  - python=3.12.7
+  - pip>=24.2
+  - pip:
+    - openai==1.51.2
