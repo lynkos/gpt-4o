@@ -1,5 +1,5 @@
 <div align="center">
-<h1>OpenAI GPT-4o + Python.</h1>
+<h1>LLM Stuff</h1>
 <img alt="Python" src="https://img.shields.io/static/v1?label=Language&style=flat&message=Python+3.12.7&logo=python&color=c7a228&labelColor=393939&logoColor=4f97d1">
 <img alt="OpenAI" src="https://img.shields.io/static/v1?label=Packages&style=flat&message=OpenAI&logo=openai&color=412991&labelColor=393939&logoColor=412991">
 <img alt="Shell" src="https://img.shields.io/static/v1?label=Shell&style=flat&message=Bash&logo=gnu+bash&color=4EAA25&labelColor=393939&logoColor=4EAA25">
@@ -67,7 +67,7 @@
    ```
    conda update conda
    ```
-3. Enter the directory where you want the repository ([`gpt-4o`](https://github.com/lynkos/gpt-4o)) to be cloned
+3. Enter the directory where you want the repository ([`llm-stuff`](https://github.com/lynkos/llm-stuff)) to be cloned
      * POSIX
        ```sh
        cd ~/path/to/directory
@@ -76,9 +76,9 @@
        ```sh
        cd C:\path\to\directory
        ```
-4. Clone the repository ([`gpt-4o`](https://github.com/lynkos/gpt-4o)), then enter (i.e. `cd` command) `gpt-4o` directory
+4. Clone the repository ([`llm-stuff`](https://github.com/lynkos/llm-stuff)), then enter (i.e. `cd` command) `llm-stuff` directory
    ```sh
-   git clone https://github.com/lynkos/gpt-4o.git && cd gpt-4o
+   git clone https://github.com/lynkos/llm-stuff.git && cd llm-stuff
    ```
 5. Create a conda virtual environment from [`environment.yml`](environment.yml)
    ```
