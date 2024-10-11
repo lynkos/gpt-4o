@@ -135,7 +135,7 @@ python -m src.Cohere.EmbedV3
 ```
 
 ## TODO
-- [ ] Add more models from [GitHub Models](https://github.com/marketplace/models)
+- [ ] Add more [models](https://github.com/marketplace/models)
   - [ ] [Meta Llama 3.1 Instruct (405B)](https://www.llama.com)
   - [ ] [Microsoft Phi 3.5 MoE Instruct (128k)](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/ba-p/4225280)
   - [ ] [Microsoft Phi 3.5 Vision Instruct (128k)](https://techcommunity.microsoft.com/t5/educator-developer-blog/a-better-phi-family-is-coming-multi-language-support-better/ba-p/4224181)
