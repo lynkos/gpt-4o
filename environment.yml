@@ -1,4 +1,4 @@
-name: gpt4o_env
+name: llm_env
 channels:
   - defaults
 dependencies:
