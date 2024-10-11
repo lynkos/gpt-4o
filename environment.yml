@@ -6,3 +6,4 @@ dependencies:
   - pip>=24.2
   - pip:
     - openai==1.51.2
+    - azure-ai-inference==1.0.0b4
