@@ -16,7 +16,7 @@ Current models:
 - [Meta Llama 3.2 (90B parameters)](src/Meta/Llama3_2.py)
 - [Cohere Embed V3](src/Cohere/EmbedV3.py)
 
-I'll add more models as I continue to experiment, so by no means is this a definitive list!
+Refer to the [TODO](#todo) section for a list of models I plan to add.
 
 TL;DR LLM playground
 
@@ -133,3 +133,16 @@ python -m src.Meta.Llama3_2
 ```sh
 python -m src.Cohere.EmbedV3
 ```
+
+## TODO
+- [ ] Add more models from [GitHub Models](https://github.com/marketplace/models)
+  - [ ] [Meta Llama 3.1 Instruct (405B)](https://www.llama.com)
+  - [ ] [Microsoft Phi 3.5 MoE Instruct (128k)](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/discover-the-new-multi-lingual-high-quality-phi-3-5-slms/ba-p/4225280)
+  - [ ] [Microsoft Phi 3.5 Vision Instruct (128k)](https://techcommunity.microsoft.com/t5/educator-developer-blog/a-better-phi-family-is-coming-multi-language-support-better/ba-p/4224181)
+  - [ ] [Cohere Embed V3 English](https://cohere.com/blog/introducing-embed-v3)
+  - [ ] [Mistral Nemo](https://mistral.ai/news/mistral-nemo)
+  - [ ] [AI21 Jamba 1.5 Large](https://www.ai21.com/jamba)
+- [ ] Add command line functionality
+- [ ] Separate classes for vision and language models
+- [ ] Logging for debugging
+- [ ] Save convo transcript option
