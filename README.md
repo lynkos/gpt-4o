@@ -124,7 +124,7 @@ Depending on the LLM you want to use, execute any of the following commands in y
 python -m src.OpenAI.GPT-4o
 ```
 
-### Meta Llama 3.5 (90B)
+### Meta Llama 3.2 (90B)
 ```sh
 python -m src.Meta.Llama3_2
 ```
